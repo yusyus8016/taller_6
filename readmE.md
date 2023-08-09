@@ -36,8 +36,8 @@
 --Bootstrap.
 
 10 ¿Cuál es el ciclo de vida de una variable?
-- declaracion:cuando se dimensina y se le asigna un tipo de dato.
-- asignacion:cuado se le otorga un valor.
-- cuando modifica una sentencia o un grupo de sentencia.
-- cuando se le signa un valor nulo o vacio.
-- hasta que termina la ejecucion del codigo.
+-  declaracion:cuando se dimensina y se le asigna un tipo de dato.
+-  asignacion:cuado se le otorga un valor.
+-  cuando modifica una sentencia o un grupo de sentencia.
+-  cuando se le signa un valor nulo o vacio.
+-  hasta que termina la ejecucion del codigo.
